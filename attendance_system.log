@@ -1,0 +1,21 @@
+2025-12-18 17:37:08,629 - INFO - package: mysql.connector.plugins
+2025-12-18 17:37:08,629 - INFO - plugin_name: caching_sha2_password
+2025-12-18 17:37:08,629 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-12-18 17:37:08,644 - ERROR - Database Connection Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-12-18 17:38:06,772 - INFO - package: mysql.connector.plugins
+2025-12-18 17:38:06,772 - INFO - plugin_name: caching_sha2_password
+2025-12-18 17:38:06,772 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-12-18 17:40:49,030 - INFO - package: mysql.connector.plugins
+2025-12-18 17:40:49,030 - INFO - plugin_name: caching_sha2_password
+2025-12-18 17:40:49,030 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-12-18 17:40:49,055 - WARNING - Duplicate login attempt: Emp 101
+2025-12-18 17:46:03,664 - INFO - package: mysql.connector.plugins
+2025-12-18 17:46:03,665 - INFO - plugin_name: caching_sha2_password
+2025-12-18 17:46:03,665 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-12-18 17:47:13,911 - INFO - package: mysql.connector.plugins
+2025-12-18 17:47:13,912 - INFO - plugin_name: caching_sha2_password
+2025-12-18 17:47:13,912 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-12-18 17:47:13,922 - WARNING - Duplicate login attempt: Emp 101
+INFO:mysql.connector:package: mysql.connector.plugins
+INFO:mysql.connector:plugin_name: caching_sha2_password
+INFO:mysql.connector:AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
